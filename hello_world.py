@@ -1,2 +1,6 @@
-print("Hello Git World!")
-print("Hello Everyone.")
+message = "Hello git world!"
+
+print(message)
+
+message = "Hello python crash course world!"
+print(message)
